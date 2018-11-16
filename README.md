@@ -10,3 +10,5 @@
 4. takecolor: https://www.fixdown.com/soft/3518.html
 
 5. cmder: http://cmder.net/
+
+6. clover: http://cn.ejie.me/

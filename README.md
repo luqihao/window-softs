@@ -13,6 +13,8 @@
 
 6. clover: http://cn.ejie.me/
 
+7. mongo可视化工具: https://nosqlbooster.com/downloads
+
 翻墙
 
 1. https://www.bennythink.com/all-platform-scientific-internet-all-in-one.html

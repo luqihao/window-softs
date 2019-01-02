@@ -15,6 +15,8 @@
 
 7. mongo可视化工具: https://nosqlbooster.com/downloads
 
+8. redis可视化工具：https://github.com/x2jia/medis/releases/tag/win
+
 翻墙
 
 1. https://www.bennythink.com/all-platform-scientific-internet-all-in-one.html
